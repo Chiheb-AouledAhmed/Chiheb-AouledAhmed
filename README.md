@@ -8,6 +8,7 @@ coding-agent evaluation for AI labs. Based in Paris — open to freelance missio
 
 | Project | Stack | What it shows |
 |---|---|---|
+| [pricing-position-service](https://github.com/Chiheb-AouledAhmed/pricing-position-service) | Java 21, Spring Boot 3, Kafka, Redis | Event-driven position keeping (idempotent consumer, weighted average cost, P&L) and Black-Scholes option pricing with greeks; embedded-Kafka integration tests |
 | [lob-engine](https://github.com/Chiheb-AouledAhmed/lob-engine) | C++20, CMake, GTest | Limit order book & matching engine: price-time priority, IOC/FOK, O(1) cancel, property tests, latency benchmarks |
 | [fin-rag-agent](https://github.com/Chiheb-AouledAhmed/fin-rag-agent) | Python, LangGraph, FastAPI | Agentic RAG over financial documentation: cited answers, abstention, citation guardrail, evaluation harness as a CI quality gate |
 
